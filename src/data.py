@@ -86,8 +86,8 @@ class PretrainedDataset(Dataset):
         # dialogue processing
         diseases = list(diseases)
         for line_id, dialog_block in enumerate(tqdm(temp)):
-            if line_id >= 1000:
-                break
+            # if line_id >= 1000:
+            #     break
             dialog_dict = json.loads(dialog_block.strip())
             dialog_str = ''
             speaker_idx = []
