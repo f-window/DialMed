@@ -1,7 +1,7 @@
 # DialMed
 
 
-This repository is the code and data for ***DialMed: A Dataset for Dialogue-based Medication Recommendation, COLING 2022*** ([pdf](https://arxiv.org/abs/2203.07094)).
+This repository is the code and data for ***DialMed: A Dataset for Dialogue-based Medication Recommendation, COLING 2022*** ([pdf](https://aclanthology.org/2022.coling-1.60/)).  
 
 
 
